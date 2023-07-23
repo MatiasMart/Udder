@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "cartoon_cow_png___psd_by_kyazart_d4c37f0-pre.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
